@@ -10,4 +10,4 @@ Check the releases for the latest playtesting releases for the game
 3. Run the .exe file
 
 ### Promised Features
-Feel free to read the TODO.md file which discusses promised features for the upcoming release
+Feel free to read the ToDoList.md file which discusses promised features for the upcoming release
