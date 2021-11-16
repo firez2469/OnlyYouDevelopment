@@ -1,5 +1,5 @@
 # AlongSideUs Development
-Builds and Important Elements of the Along Side us Game
+Builds and Important Elements of the Along Side Us Game
 
 ## Playtesting
 Check the releases for the latest playtesting releases for the game
