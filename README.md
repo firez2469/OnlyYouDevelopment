@@ -13,4 +13,6 @@ Check the releases for the latest playtesting releases for the game
 Feel free to read the [Features Files](/Features/) which discusses promised features for upcoming releases
 
 ### Summary of Current Versions
-- Alpha 0.1 Basic Test Build, Release: [Release](https://github.com/firez2469/AlongSideUsDevelopment/releases)
+- Alpha 0.1 Name: Basic Test Build, Release: [Release](https://github.com/firez2469/AlongSideUsDevelopment/releases)
+### Upcoming
+- Alpha 0.2 Name: Level 1 Release, Release: Soon
