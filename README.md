@@ -25,18 +25,18 @@ Feel free to read the [Features Files](/Features/) which discusses promised feat
 - Concept Designer
 - Story
 
-### Marco S. Hampel
+#### Marco S. Hampel
 - Game Design
 - Programming
 - UI
 - Unity Integration
 
-### Queenie Liang
+#### Queenie Liang
 - Game Design
 - Art
 - Concept Designer
 
-### Music + Playtesting
+#### Music + Playtesting
 - Owen Sherman
 - Ben Seidman
 - Maggie Seidman
