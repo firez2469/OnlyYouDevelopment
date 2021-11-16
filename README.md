@@ -17,3 +17,26 @@ Feel free to read the [Features Files](/Features/) which discusses promised feat
 - Alpha 0.1 Name: Basic Test Build, Release: [Release](https://github.com/firez2469/AlongSideUsDevelopment/releases/tag/Experimental_1)
 ### Upcoming
 - Alpha 0.2 Name: Level 1 Release, Release: Soon
+
+
+### Credits
+#### Alex Siegel
+- Game Design
+- Concept Designer
+- Story
+
+### Marco S. Hampel
+- Game Design
+- Programming
+- UI
+- Unity Integration
+
+### Queenie Liang
+- Game Design
+- Art
+- Concept Designer
+
+### Music + Playtesting
+- Owen Sherman
+- Ben Seidman
+- Maggie Seidman
