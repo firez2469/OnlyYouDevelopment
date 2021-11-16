@@ -1,4 +1,4 @@
-# AlongSideUs Development Alpha
+# AlongSideUs Development
 Builds and Important Elements of the Along Side us Game
 
 ## Playtesting
