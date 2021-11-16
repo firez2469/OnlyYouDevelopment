@@ -11,3 +11,6 @@ Check the releases for the latest playtesting releases for the game
 
 ### Promised Features
 Feel free to read the [Features Files](/Features/) which discusses promised features for upcoming releases
+
+### Summary of Current Versions
+Alpha 0.1 Basic Test Build, Release: [Release](/releases/tag/Experimental_1)
