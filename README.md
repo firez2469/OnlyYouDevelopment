@@ -1,5 +1,5 @@
 # Only You Development Alpha
-Builds and Important Elements of the Along Side Us Game
+Builds and Important Elements of the Only You Game
 
 ## Playtesting
 Check the releases for the latest playtesting releases for the game
@@ -16,7 +16,7 @@ Feel free to read the [Features Files](/Features/) which discusses promised feat
 ### Summary of Current Versions
 - Alpha 0.1 Name: Basic Test Build, Release: [Release](https://github.com/firez2469/AlongSideUsDevelopment/releases/tag/Experimental_1)
 ### Upcoming
-- Alpha 0.2 Name: Level 1 Release, Release: Soon
+- Alpha 0.2 Name: Level 1 QA Testing Release, Release: Soon
 
 
 ### Credits
@@ -36,7 +36,9 @@ Feel free to read the [Features Files](/Features/) which discusses promised feat
 - Art
 - Concept Designer
 
-#### Music + Playtesting
+#### Music
 - Owen Sherman
-- Ben Seidman
 - Maggie Seidman
+
+#### Playtesting
+- Ben Seidman
