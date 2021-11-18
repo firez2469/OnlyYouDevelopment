@@ -13,7 +13,7 @@ Check the releases for the latest playtesting releases for the game
 ### Promised Features
 Feel free to read the [Features Files](/Features/) which discusses promised features for upcoming releases
 
-### Summary of Current Versions
+### Versions+ Quick Download Links
 - Alpha 0.1 Name: Basic Test Build, Download: [Download](https://github.com/firez2469/OnlyYouDevelopment/releases/download/Experimental_1/TestBuild1.zip)
 ### Upcoming
 - Alpha 0.2 Name: Level 1 QA Testing Release, Release: Soon
