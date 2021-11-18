@@ -20,18 +20,21 @@ Feel free to read the [Features Files](/Features/) which discusses promised feat
 
 
 ### Credits
-#### Alex Siegel
+#### Project Lead
+##### Alex Siegel
 - Game Design
 - Concept Designer
 - Story
 
-#### Marco S. Hampel
+#### Technical Lead
+##### Marco S. Hampel
 - Game Design
 - Programming
 - UI
 - Unity Integration
 
-#### Queenie Liang
+#### Art Lead
+##### Queenie Liang
 - Game Design
 - Art
 - Concept Designer
