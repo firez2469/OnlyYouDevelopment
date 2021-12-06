@@ -1,5 +1,5 @@
 # To Do Development for Alpha 0.1
-List of promised features for initial Alpha 0.1 Build
+List of promised features/dev notes for initial Alpha 0.1 Build
 
 ## General Overview
 ### Wakeup
@@ -15,12 +15,15 @@ Cut scene plays
 ### Promised Features:
 - Approaching NPC allows player to interact with them
 - Start conversation
-- Colored text representing mood of each NPC and Player
-- Interactible NPCS
+- Colored text representing mood of each NPC and Player. Helps identify people being referenced
 - Options during conversations may appear
 - Player can skip through conversation
 - Only select conversations are repeatable
-
+- Cutscenes auto-start when you enter certain areas
+- School Level
+- Be able to name your character whatever you want
+- Enter an Argument (battle)
+- Tutorial for the Argument
 
 ## Art
 - School Level Design
@@ -41,6 +44,7 @@ Cut scene plays
 
 ### 3. Bug Fixes
 - Minor dialog bug fixes related with stacking of multiple effects
+- Spaces in front of dialog sections will be loaded.
 
 ## Story
 - Implement Babe Dialog
@@ -49,3 +53,4 @@ Cut scene plays
 - Implement additional side npc's.
 
 - Develop cutscene speech for principal
+- Scott battle/argument
