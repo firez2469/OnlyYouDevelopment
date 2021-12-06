@@ -39,9 +39,10 @@ Feel free to read the [Features Files](/Features/) which discusses promised feat
 - Art
 - Concept Designer
 
-#### Music
-- Owen Sherman
-- Maggie Seidman
+#### Music 
+###### Owen Sherman
+
 
 #### Playtesting
 - Ben Seidman
+- Owen Sherman
