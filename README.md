@@ -21,26 +21,26 @@ Feel free to read the [Features Files](/Features/) which discusses promised feat
 
 ### Credits
 #### Project Lead
-###### Alex Siegel
+##### Alex Siegel
 - Game Design
 - Concept Designer
 - Story
 
 #### Technical Lead
-###### Marco S. Hampel
+##### Marco S. Hampel
 - Game Design
 - Programming
 - UI
 - Unity Integration
 
 #### Art Lead
-###### Queenie Liang
+##### Queenie Liang
 - Game Design
 - Art
 - Concept Designer
 
 #### Music 
-###### Owen Sherman
+##### Owen Sherman
 
 
 #### Playtesting/ QA Testing
