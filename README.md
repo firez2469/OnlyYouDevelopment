@@ -16,7 +16,7 @@ Feel free to read the [Features Files](/Features/) which discusses promised feat
 ### Versions + Quick Download Links
 - Alpha 0.1 Name: Basic Test Build, PC Download: [Download](https://github.com/firez2469/OnlyYouDevelopment/releases/download/Experimental_1/TestBuild1.zip), Mac Download:
 ### Upcoming
-- Alpha 0.2 Name: Level 1 QA Testing Release, Release: Soon
+- Alpha 0.2 Name: Level 1 QA Testing Release, Expected Release: Decemeber 31st, 2021
 
 
 ### Credits
