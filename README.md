@@ -25,6 +25,7 @@ Feel free to read the [Features Files](/Features/) which discusses promised feat
 - Game Design
 - Concept Designer
 - Story
+- Dialog
 
 #### Technical Lead
 ##### Marco S. Hampel
