@@ -43,6 +43,6 @@ Feel free to read the [Features Files](/Features/) which discusses promised feat
 ###### Owen Sherman
 
 
-#### Playtesting
+#### Playtesting/ QA Testing
 - Ben Seidman
 - Owen Sherman
