@@ -10,9 +10,6 @@ Check the releases for the latest playtesting releases for the game
 3. Unzip the file
 4. Run the .exe file
 
-### Promised Features
-Feel free to read the [Features Files](/Features/) which discusses promised features for upcoming releases
-
 ### Versions + Quick Download Links
 - Alpha 0.1 Name: Basic Test Build, PC Download: [Download](https://github.com/firez2469/OnlyYouDevelopment/releases/download/Experimental_1/TestBuild1.zip), Mac Download:
 ### Upcoming
