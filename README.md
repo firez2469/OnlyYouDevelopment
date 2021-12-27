@@ -41,7 +41,7 @@ Feel free to read the [Features Files](/Features/) which discusses promised feat
 - Concept Designer
 
 #### Music 
-##### Owen Sherman
+##### Maggie Seidman
 
 
 #### Playtesting/ QA Testing
