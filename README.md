@@ -12,5 +12,6 @@ Check the releases for the latest playtesting releases for the game
 
 ### Versions + Quick Download Links
 - Alpha 0.1 Name: Basic Test Build, PC Download: [Download](https://github.com/firez2469/OnlyYouDevelopment/releases/download/Experimental_1/TestBuild1.zip), Mac Download:
+- Dev Release 0.2, PC Download: [Download](), Mac Download: [Download]()
 ### Upcoming
 - Alpha 0.2 Name: Level 1 QA Testing Release, Expected Release: Q1 2022
